@@ -424,7 +424,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 0 18px;
+  padding: 14px 0 15px;
 }
 .header-area .header-logo a {
   font-family: var(--font-poller-one);
@@ -507,7 +507,6 @@ body {
 
 .header-menu {
   background: var(--white-color);
-  padding: 0px 15%;
   gap: 40px;
   align-items: center;
   justify-content: space-between;
